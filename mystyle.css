@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #ba19af;
+}
+
+img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+li {
+    list-style: none;
+}
